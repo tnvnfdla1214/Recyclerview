@@ -17,7 +17,7 @@
   + 게시물 리스트
   + 댓글 리스트
   + 채팅 기능
-+ [MVVM 사용해보기] (https://github.com/tnvnfdla1214/MvvmExample)
++ [MVVM사용해보기](https://github.com/tnvnfdla1214/MvvmExample)
   + 등록된 사람 리스트
 ***
 ### :lollipop: 설명 (MVVM 사용해보기)
